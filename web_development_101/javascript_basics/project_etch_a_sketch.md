@@ -1112,5 +1112,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Nijepa's Solution](https://github.com/nijepa/etch-a-sketch) - [View in Browser](https://nijepa.github.io/etch-a-sketch)
 * [Jacobus's Solution](https://github.com/Jacobus-afk/etch-a-sketch) - [View in Browser](https://jacobus-afk.github.io/etch-a-sketch/)
 * [Novibonjovi's Solution](https://github.com/novibonjovi/etch-a-sketch) - [View in Browser](https://novibonjovi.github.io/etch-a-sketch/)
+* [joankii's Solution](https://github.com/joan-kii/etch-a-sketch/) - [View in Browser](https://joan-kii.github.io/etch-a-sketch/)
 </details>
 
