@@ -790,4 +790,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [kenwilde's Solution](https://github.com/kenwilde1/calculator) - [View in Browser](https://kenwilde1.github.io/calculator/)
 - [Alejaldo's Solution](https://github.com/Alejaldo/calculatorjs) - [View in Browser](https://alejaldo.github.io/calculatorjs/)
 - [Arindam's Solution](https://github.com/Arindam-7/Calculator) - [View in Browser](https://arindam-7.github.io/Calculator/)
+- [joankii's Solution](https://github.com/joan-kii/calculator) - [View in Browser](https://joan-kii.github.io/calculator/)
 </details>
